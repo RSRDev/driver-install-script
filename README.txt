@@ -1,1 +1,1 @@
-Husk altid at køre genvejen til batch scripted, da Powershell ellers ikke vil køre som admin og Powershell scriptet derfor ikke vil virke.
+Run the shortcut so Powershell will run as admin.
